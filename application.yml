@@ -1,0 +1,7 @@
+server:
+  port: 0
+  
+eureka:
+  client:
+    server-url:
+      defaultZone: http://eureka1:8761/eureka
